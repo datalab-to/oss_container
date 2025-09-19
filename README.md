@@ -106,6 +106,8 @@ Check the status of a file or download the results once processing is done.
 }
 ```
 
+Images will need to be fetched separately.
+
 **Python Example:**
 ```python
 import requests
